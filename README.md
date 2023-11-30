@@ -68,8 +68,7 @@
 
 <br><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-jha-96&show_icons=true&locale=en&layout=compact" alt="abhishek-jha-96" /></p>
-<br><br/>
-[![An image of @abhishekjha96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekjha96)](https://holopin.io/@abhishekjha96)
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-jha-96&show_icons=true&locale=en" alt="abhishek-jha-96" /></p>
 
