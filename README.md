@@ -1,4 +1,4 @@
-![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
+![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Jha</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Girl in a jacket" width="400" height="300">
