@@ -19,7 +19,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jha-670208204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-jha-670208204/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/abhishekjha96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abhishekjha96" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/abhishekjha96500/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhishekjha96500/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@abhishekjha96500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@abhishekjha96500" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +32,10 @@
   </a>   
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://doc.rust-lang.org/static.files/rust-logo-9a9549ea.svg" alt="rust" width="40" height="40"/> 
+  </a>
   
   <br/>
   
@@ -51,10 +53,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="zustand/redux" width="40" height="40"/> 
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="tanstack-query" width="40" height="40"/> 
-  </a>
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/remix-run/react-router/main/docs/branding/logo.svg" alt="react-router" width="40" height="40"/> 
+    <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="tanstack-query" width="40" height="40"/> 
   </a>
   
   <br/>
@@ -64,14 +63,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/> 
+    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tomchristie/django-rest-framework-logo/master/drf-logo.png" alt="drf" width="40" height="40"/> 
-  </a>
   
   <br/>
   
